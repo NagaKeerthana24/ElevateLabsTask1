@@ -12,8 +12,7 @@ It supports the following basic operations:
 The program loops continuously until the user chooses to exit.
 Screenshots:
 1.Addition:
-
-        ![addition](https://github.com/user-attachments/assets/4a1e721e-7b3d-4b97-b4dd-1d9cebbaf49f)
+        ![addition](https://github.com/user-attachments/assets/8ffe83bd-5275-4f16-a367-7919373e96a4)
 
 2.Subtraction:
         ![subtraction](https://github.com/user-attachments/assets/3659f7e7-a593-4a23-9e01-63c1d7e1e3b4)
