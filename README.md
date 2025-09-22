@@ -12,15 +12,23 @@ It supports the following basic operations:
 The program loops continuously until the user chooses to exit.
 Screenshots:
 1.Addition:
+
+
 ![addition](https://github.com/user-attachments/assets/544c5fb4-b2c5-41fa-9604-3affd8649c41)
 
 2.Subtraction:
+
+
 ![subtraction](https://github.com/user-attachments/assets/3659f7e7-a593-4a23-9e01-63c1d7e1e3b4)
 
 3.Multiplication
+
+
  ![multiplication](https://github.com/user-attachments/assets/2610c126-0e28-41e1-a49e-7f1dcc72c5be)
 
 4.Divison:
+
+
  ![division](https://github.com/user-attachments/assets/b7f2bebd-61d6-49a2-84e5-91201f686955)
 
 5.Exit 
