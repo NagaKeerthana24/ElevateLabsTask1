@@ -13,19 +13,19 @@ The program loops continuously until the user chooses to exit.
 Screenshots:
 1.Addition:
 
-![addition](https://github.com/user-attachments/assets/4a1e721e-7b3d-4b97-b4dd-1d9cebbaf49f)
+        ![addition](https://github.com/user-attachments/assets/4a1e721e-7b3d-4b97-b4dd-1d9cebbaf49f)
 
 2.Subtraction:
-![subtraction](https://github.com/user-attachments/assets/3659f7e7-a593-4a23-9e01-63c1d7e1e3b4)
+        ![subtraction](https://github.com/user-attachments/assets/3659f7e7-a593-4a23-9e01-63c1d7e1e3b4)
 
 3.Multiplication
-![multiplication](https://github.com/user-attachments/assets/2610c126-0e28-41e1-a49e-7f1dcc72c5be)
+        ![multiplication](https://github.com/user-attachments/assets/2610c126-0e28-41e1-a49e-7f1dcc72c5be)
 
 4.Divison:
-![division](https://github.com/user-attachments/assets/b7f2bebd-61d6-49a2-84e5-91201f686955)
+       ![division](https://github.com/user-attachments/assets/b7f2bebd-61d6-49a2-84e5-91201f686955)
 
 5.Exit 
-![exitcondition](https://github.com/user-attachments/assets/e4d293cc-e52c-4841-a62f-5b882003af64)
+       ![exitcondition](https://github.com/user-attachments/assets/e4d293cc-e52c-4841-a62f-5b882003af64)
 
 
 
