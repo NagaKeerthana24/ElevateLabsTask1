@@ -36,5 +36,5 @@ Screenshots:
 
   ![exitcondition](https://github.com/user-attachments/assets/e4d293cc-e52c-4841-a62f-5b882003af64)
 
-
-
+#What I learnt#
+“In this task I created a CLI calculator using Python. I implemented addition, subtraction, multiplication, and division. I handled invalid inputs and division by zero. The program loops until the user exits. I learned how to structure code using functions, handle user input, and write a clean README.”
